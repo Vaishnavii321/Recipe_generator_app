@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "391289284118",
+    "project_id": "smart-chef-7c8d6",
+    "storage_bucket": "smart-chef-7c8d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391289284118:android:44fa9e75357500d82d3737",
+        "android_client_info": {
+          "package_name": "com.example.smart_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391289284118-u9f6e8ije1jg58h47omahv5vnivuv1cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4gP_lo0aTiwjf5SvHZ79yijstMEn5Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391289284118-u9f6e8ije1jg58h47omahv5vnivuv1cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391289284118-4a6js269jfpg7ssef1f7peo3e3t9rnc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartchef"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
