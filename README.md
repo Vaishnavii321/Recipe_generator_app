@@ -9,6 +9,10 @@ A new Flutter project.
 ✅ User authentication using Firebase
 ✅ Meal planning suggestions
 
+# Output
+![Screenshot 2025-03-03 120549](https://github.com/user-attachments/assets/c6340b20-ff66-46aa-a670-331a56d66607)
+![Screenshot 2025-03-03 121125](https://github.com/user-attachments/assets/852ea58f-c029-4e0b-a398-696fb65cee0c)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
